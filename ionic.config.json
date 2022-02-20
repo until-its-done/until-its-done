@@ -1,0 +1,7 @@
+{
+  "name": "until-its-done",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
