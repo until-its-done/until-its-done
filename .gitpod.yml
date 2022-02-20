@@ -1,0 +1,8 @@
+ports:
+  - port: 3000
+    onOpen: open-preview
+
+
+tasks:
+  - init: npm install -g @ionic/cli && npm install
+    command: ionic serve
